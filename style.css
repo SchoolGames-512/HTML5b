@@ -30,6 +30,7 @@ body{
 	margin:0 auto 0 auto;
 	min-height:600px;
 	position:relative;
+	background-color: black;
 }
 p{
 	margin:0 0 0.7em;
